@@ -1,0 +1,30 @@
+# Virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Data files (if you don't want to include them in the repository)
+*.csv
+*.json
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model files (if they're large, you might want to exclude them)
+*.joblib
+*.pkl
